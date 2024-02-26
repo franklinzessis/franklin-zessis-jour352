@@ -1,0 +1,35 @@
+/*
+MY COLOR PALETTE
+Color 1 - #842128
+Color 2 - #2C9BA9
+Color 3 - #255C99
+Color 4 - #FFB8BB
+Color 5 - #9016F6
+*/
+
+body {
+    background-color:#255C99;
+    text-align:center;
+}
+
+button {
+    background-color:#FFB8BB;
+    color:#842128;
+    font-family:"Abril Fatface", serif;
+    
+    
+}
+
+button:hover {
+    background-color:#9016F6;
+}
+
+h1 {
+    font-family:"Abril Fatface", serif;
+    color:white;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+    color:white;
+}
