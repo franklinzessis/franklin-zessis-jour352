@@ -16,8 +16,13 @@ button {
     background-color:#FFB8BB;
     color:#842128;
     font-family:"Abril Fatface", serif;
-    
-    
+    width:200px;
+    padding:20px;
+    margin:50px;
+    font-size:25px;
+    border:none;
+    text-transform:uppercase;
+    border-radius:12px;
 }
 
 button:hover {
