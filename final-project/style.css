@@ -12,12 +12,25 @@ img {
 h1 {
     padding:10px 10px 10px 10px;
     margin: 25px;
+    font-weight:bold;
 }
 
 h2 {
    padding:10px 10px 10px 10px;
-    margin: 25px; 
+    margin: 25px;
 }
+    
+h3 {
+    font-weight:bold;
+    padding:10px 10px 10px 10px;
+    margin: 25px;
+    }
+
+h4 {
+    font-weight:bold;
+    padding:10px 10px 10px 10px;
+    margin: 25px;
+    }
 
 .caption {
     font-size:12px;
@@ -25,17 +38,21 @@ h2 {
 
 .credit {
     font-size:12px;
-    color:gray;
+    color:gold;
     font-weight:bold;
     text-transform:uppercase; 
 }
 
 .date {
-        
+    text-align:left;
+    color:gray;
     }
     
 #content {
-        width:100%
+    width:100%;
+    color:black;
+    font-size:15px;
+    background-color:#38b6ff;
     }
 
 }
