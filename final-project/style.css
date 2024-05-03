@@ -11,6 +11,7 @@ body {
 #topper {
     background-color:darkblue;
     color:white;
+    padding:0px;
     
 }
 
@@ -69,6 +70,7 @@ h4 {
     font-family: "Merriweather", serif;
     font-weight: 300;
     font-style: normal;
+    margin:25px;
     }
     
 #content {
@@ -85,7 +87,7 @@ h4 {
         padding: 10px 30px 10px 30px;
         margin: 20px 0px 20px 0px;
         background-color:beige;
-        width:50%
+        width:100%;
         color:black;
         border: 5px solid black;
     }
